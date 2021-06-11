@@ -1,2 +1,1 @@
-# reddit
-Reddit client for Bollywood B Bot
+# Bollywood B Bot - Reddit Version (Under Construction)
