@@ -1,4 +1,4 @@
-username = "Bollywood-Bot"
-password = "Akshay-kumar"
-client_id = "5Je1DzC6vUoulw"
-client_secret = "FKqNWlkjg1yvxPovmDnoK4qwumBjoQ"
+username = "your reddit account name"
+password = "your reddit account password"
+client_id = "your account client id"
+client_secret = "your account client secret"
