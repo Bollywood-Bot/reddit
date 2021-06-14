@@ -52,6 +52,6 @@ Run your bot:
 $ python reddit_bot.py
 ```
 
-###Contribution
+### Contribution
 Fork this Repository for any kind of contribution,
 All kind of contributions, issues and feature requests are welcome ❤️
