@@ -4,7 +4,6 @@ import time
 import csv
 import random
 import os
-from keep_alive import keep_alive
 
 def bot_login():
 	print("Logging in...")
@@ -51,7 +50,6 @@ def get_saved_comments():
 
 
 r = bot_login()
-keep_alive()
 comments_replied_to = get_saved_comments()
 print(comments_replied_to)
 
