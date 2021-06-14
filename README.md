@@ -53,5 +53,5 @@ $ python reddit_bot.py
 ```
 
 ### Contribution
-Fork this Repository for any kind of contribution,
+Fork this Repository for any kind of contribution,</br>
 All kind of contributions, issues and feature requests are welcome ❤️
