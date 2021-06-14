@@ -20,7 +20,7 @@ def run_bot(r, comments_replied_to):
 	print("Bot started")
 	keywords = ["Bollywood", " Bollywood ","Bollywood ", "bollywood", " bollywood ", "bollywood "]
 
-	for comment in r.subreddit('bollywoodbottest').stream.comments(skip_existing=True):
+	for comment in r.subreddit('test').stream.comments(skip_existing=True):
 		for keyword in keywords:
 			if keyword in comment.body and comment.id not in comments_replied_to and comment.author != r.user.me():
 				print("Comment found consisting of a keyword")
