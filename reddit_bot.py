@@ -24,7 +24,7 @@ def run_bot(r, comments_replied_to):
 		for keyword in keywords:
 			if keyword in comment.body and comment.id not in comments_replied_to and comment.author != r.user.me():
 				print("Comment found consisting of a keyword")
-				with open('file.csv') as f:
+				with open('file.csv', encoding='utf-8') as f:
 					reader = csv.reader(f)
 					chosen_row = random.choice(list(reader))
 					comment.reply(chosen_row)
