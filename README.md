@@ -1,5 +1,15 @@
 # Bollywood Bot - Reddit Version
+This [reddit bot](https://www.reddit.com/user/Bollywood-Bot) is live deployed.</br> 
+So, if you want to test it go to any subreddit, <br>
+and comment under any post with (bollywood/Bollywood) word with in your comment.
+  - [r/indiasocial](https://www.reddit.com/r/indiasocial/)
+  - [r/Chodi](https://www.reddit.com/r/Chodi)
+  - [r/IndiaSpeaks](https://www.reddit.com/r/IndiaSpeaks/) </br>
+</br>
+
+### How to use this
 This Reddit Comment Bot is a python-based auto-responder.
+
   - Pick a subreddit to scan
   - Designate a specific comment to search for
   - Set your bot's reply
