@@ -5,8 +5,7 @@ This [reddit bot](https://www.reddit.com/user/Bollywood-Bot) is live deployed.</
 So, if you want to test it go to any subreddit, <br>
 and comment under any post with (bollywood/Bollywood) word with in your comment.
   - [r/indiasocial](https://www.reddit.com/r/indiasocial/)
-  - [r/Chodi](https://www.reddit.com/r/Chodi)
-  - [r/IndiaSpeaks](https://www.reddit.com/r/IndiaSpeaks/) </br>
+  - [r/delhi](https://www.reddit.com/r/delhi/)
 </br>
 
 ### How to use this
