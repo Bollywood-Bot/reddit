@@ -1,3 +1,5 @@
+<div align="center"><img src="https://socialify.git.ci/Bollywood-Bot/reddit/image?description=1&descriptionEditable=A%20Bot%20that%20replied%20to%20you%20with%20a%20cheeky%20and%20typical%20Bollywood%20dialogue%20everytime%20you%20mention%20it.%20&font=Inter&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light" width="600"></div>
+
 # Bollywood Bot - Reddit Version
 This [reddit bot](https://www.reddit.com/user/Bollywood-Bot) is live deployed.</br> 
 So, if you want to test it go to any subreddit, <br>
