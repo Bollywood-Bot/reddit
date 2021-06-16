@@ -2,10 +2,11 @@
 
 # Bollywood Bot - Reddit Version
 This [reddit bot](https://www.reddit.com/user/Bollywood-Bot) is live deployed.</br> 
-So, if you want to test it go to any subreddit, <br>
+So, if you want to test it go to any subreddit named below (make sure don't spam), <br>
 and comment under any post with (bollywood/Bollywood) word with in your comment.
   - [r/indiasocial](https://www.reddit.com/r/indiasocial/)
   - [r/delhi](https://www.reddit.com/r/delhi/)
+  - [r/bakchodi](https://www.reddit.com/r/bakchodi/)
 </br>
 
 ### How to use this
